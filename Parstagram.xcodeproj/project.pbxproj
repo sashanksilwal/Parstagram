@@ -18,6 +18,7 @@
 		50C7FF13271B3F3D00491387 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C7FF12271B3F3D00491387 /* LoginViewController.swift */; };
 		50C7FF15271B3F5000491387 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C7FF14271B3F5000491387 /* FeedViewController.swift */; };
 		50C7FF17271B83D700491387 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C7FF16271B83D700491387 /* CameraViewController.swift */; };
+		50C7FF19271BA70B00491387 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C7FF18271BA70B00491387 /* PostCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		50C7FF12271B3F3D00491387 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		50C7FF14271B3F5000491387 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		50C7FF16271B83D700491387 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		50C7FF18271BA70B00491387 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		BEFC006E53F800F4C6A70ADB /* Pods-Parstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.release.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.release.xcconfig"; sourceTree = "<group>"; };
 		DE1E1CD621242502546BEE61 /* Pods_Parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -89,6 +91,7 @@
 				50C7FF12271B3F3D00491387 /* LoginViewController.swift */,
 				50C7FF14271B3F5000491387 /* FeedViewController.swift */,
 				50C7FF16271B83D700491387 /* CameraViewController.swift */,
+				50C7FF18271BA70B00491387 /* PostCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50C7FF19271BA70B00491387 /* PostCell.swift in Sources */,
 				50C7FF13271B3F3D00491387 /* LoginViewController.swift in Sources */,
 				50208B7F271B3A94007ACD97 /* ViewController.swift in Sources */,
 				50C7FF15271B3F5000491387 /* FeedViewController.swift in Sources */,
